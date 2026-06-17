@@ -11,7 +11,7 @@ This dashboard was built to solve a common problem for **job seekers, job transi
 
 ## Dashboard File
 
-You can find the file for the dashboard here: [`Data_Jobs_Dashboard.pbix`](Data_Jobs_Dashboard.pbix).
+You can find the file for the dashboard here: [`Data_Jobs_Dashboard.pbix`](DATA_JOBS_DASHBOARD.pbix).
 <!-- Confirm this matches your actual .pbix filename in the repo -->
 
 ## Skills Showcased
