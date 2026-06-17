@@ -1,6 +1,6 @@
 # Data Jobs Dashboard with Power BI
 
-![Data Jobs Dashboard Overview](images/Dashboard_Page1_Overview.png)
+![Data Jobs Dashboard Overview](Images/Data_Jobs_Dashboards.gif)
 
 <!-- If you've published this to Power BI Service and have a public link, add it here:
 > 📊 [View interactive dashboard here on the Power BI Service](YOUR_LINK_HERE) -->
@@ -38,13 +38,13 @@ You can find the file for the dashboard here: [`Data_Jobs_Dashboard.pbix`](Data_
 
 ### Page 1: High-Level Market View
 
-![Data Jobs Dashboard Page 1](images/Dashboard_Page1_Overview.png)
+![Data Jobs Dashboard Page 1](Images/Page1_Data_Jobs.gif)
 
 This page is the mission control for the data job market. It shows headline KPIs (total job count, average job rating, median yearly and hourly salary), a trend line of job postings across 2024, a scatter plot comparing hourly vs. yearly pay by role, a bar chart ranking job titles by salary, and a detailed stats table with built-in trend sparklines.
 
 ### Page 2: Job Title Drill Through
 
-![Data Jobs Dashboard Page 2](images/Dashboard_Page2_DrillThrough.png)
+![Data Jobs Dashboard Page 2](Images/Page2_Drill_Jobs_Through.gif)
 
 This is the deep-dive page. Clicking the **Drill Through to Job Title** button on Page 1 brings you here, filtered to a single job title (e.g. Senior Data Analyst). It shows yearly and hourly salary ranges via gauge charts, percentages for work-from-home availability, degree requirements, and health insurance via donut charts, a map of where these jobs are posted globally, and breakdowns of job platforms and schedule type.
 
